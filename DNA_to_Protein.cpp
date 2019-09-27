@@ -137,8 +137,8 @@ void init() {
 	table['T'] = 'A';
 	table['C'] = 'G';
 
-	t_table["UUU"] = "페닐";
-	t_table["UUC"] = "알라닌";
+	t_table["UUU"] = "페닐알라닌";
+	t_table["UUC"] = "페닐알라닌";
 	t_table["UUA"] = "류신";
 	t_table["UUG"] = "류신";
 	t_table["UCU"] = "세린";
@@ -171,7 +171,7 @@ void init() {
 	t_table["CGG"] = "아르지닌";
 	t_table["AUU"] = "아이소류신";
 	t_table["AUC"] = "아이소류신";
-	t_table["AUA"] = "메싸이오닌 : 시작 코돈";
+	t_table["AUA"] = "아이소류신";
 	t_table["AUG"] = "메싸이오닌 : 시작 코돈";
 	t_table["ACU"] = "트레오닌";
 	t_table["ACC"] = "트레오닌";
